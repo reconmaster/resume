@@ -1,0 +1,5 @@
+
+* My Resume
+I wanted to use the power of \LaTeX to manage the design of my resume
+while simultaneously using the simplicity of [[http://orgmode.org/][org-mode]] to manage the
+content. I wrote a post about the process on my website.

@@ -1,0 +1,82 @@
+#+OPTIONS: toc:nil H:10 tex:t
+#+STARTUP: hidestars indent
+#+INCLUDE: personal-info.org
+#+LaTeX_HEADER: \usepackage{myresume}
+#+LaTeX_HEADER: \hypersetup{hidelinks}
+#+LaTeX_CLASS_OPTIONS: [letterpaper]
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+
+#+LaTeX_HEADER: \usepackage{paralist}
+#+LaTeX_HEADER: \let\itemize\compactitem
+
+# Palatino
+#+LaTeX_HEADER: \usepackage[T1]{fontenc}
+#+LaTeX_HEADER: \usepackage{mathpazo}
+#+LaTeX_HEADER: \linespread{1.05}
+#+LaTeX_HEADER: \usepackage[scaled]{helvet}
+#+LaTeX_HEADER: \usepackage{courier}
+
+{{{HEADER}}}
+
+* Education
+** *University of Chicago* (Chicago, IL)
+*** 2012-present
+Medical Physics PhD, expected Autumn 2016
+
+** *Kyoto Japanese Language School* (Kyoto, JP)
+*** 2011-2012
+*\jntext{京都日本語学校}* (\jntext{京都, 日本})
+
+** *University of North Carolina* (Chapel Hill, NC)
+*** 2004-2008
+Physics BS and Mathematics Minor
+
+** *Duke University* (Durham, NC)
+*** 2004-2008
+Robertson Scholar Concurrent Enrollment
+
+** *Bristol University* (Bristol, UK)
+*** 2006-2007
+Studied abroad with internship at CERN (Geneva, CH)
+
+
+* Research Experience
+** *Committee on Medical Physics, University of Chicago* (Chicago, IL)
+*** 2012-present
+- Developing tomographic reconstruction methods for novel
+  radiation-therapy imaging trajectories
+- Designed and manufactured phantoms for image quality analysis
+- Created geometric calibration methods and phantoms for new scanning
+  trajectories
+- Presented research at industry and scientific conferences
+
+* Work Experience
+** *XinRay Systems LLC* (Research Triangle Park, NC)
+*** 2008-2011
+- Developed simulation models to optimize carbon-nanotube-based
+  tomographic x-ray devices
+** *Teach for America* (Chapel Hill, NC)
+*** 2007-2008
+- Coordinated UNC campus teacher recruitment campaign
+
+* Honors
+** *Fellowships & Grants*
+- Lawrence H. Lanzl Graduate Student Fellowship in Medical Physics
+  \hfill /2015/ \newline (Recognition of Exceptional Research Ability)
+- Graduate Council Travel Fund Award \hfill /2015/
+- IEEE NSS-MIC-RTSD Trainee Grant \hfill /2013 & 2015/
+
+** *Awards*
+- Carl J. Vyborny Award for Outstanding Journal Club Presentation
+  \hfill /2014 & 2015/
+
+
+* Skills
+- Scientific Computing :: C/C++, CUDA/GPU acceleration, Emacs/Lisp,
+     Finite Element Simulation, FORTRAN, Git, ITK, Java, \LaTeX,
+     Linux, Literate Programming, MATLAB, Python, SolidWorks, Unit
+     Testing
+* Interests and Hobbies
+- Black belt and instructor in Shodokan Aikido (\jntext{合気道})

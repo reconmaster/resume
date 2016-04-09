@@ -1,0 +1,8 @@
+#+MACRO: FIRST    Andrew M.
+#+MACRO: LAST     Davis
+#+MACRO: FULL     {{{FIRST}}} {{{LAST}}}
+#+MACRO: BLOG     www.andrewmichaeldavis.com
+#+MACRO: EMAIL    amdavis@uchicago.edu
+#+MACRO: CODE     reconmaster
+
+#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{BLOG}}} }{ {{{EMAIL}}} }{ {{{CODE}}} }}
